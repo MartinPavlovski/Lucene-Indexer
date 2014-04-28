@@ -1,0 +1,377 @@
+Which German cities have more than 250000 inhabitants?
+	http://dbpedia.org/ontology/City
+	http://dbpedia.org/ontology/Town
+	http://dbpedia.org/ontology/country
+	http://dbpedia.org/resource/Germany
+	http://dbpedia.org/ontology/populationTotal
+Who was the successor of John F. Kennedy?
+	http://dbpedia.org/resource/John_F._Kennedy
+	http://dbpedia.org/ontology/successor
+Who is the mayor of Berlin?
+	http://dbpedia.org/resource/Berlin
+	http://dbpedia.org/ontology/leader
+How many students does the Free University in Amsterdam have?
+	http://dbpedia.org/resource/Vrije_Universiteit
+	http://dbpedia.org/ontology/numberOfStudents
+What is the second highest mountain on Earth?
+	http://dbpedia.org/ontology/Mountain
+	http://dbpedia.org/ontology/elevation
+Give me all professional skateboarders from Sweden.
+	http://dbpedia.org/ontology/occupation
+	http://dbpedia.org/resource/Skateboarding
+	http://dbpedia.org/ontology/birthPlace
+	http://dbpedia.org/resource/Sweden
+	http://dbpedia.org/ontology/birthPlace
+	http://dbpedia.org/ontology/country
+	http://dbpedia.org/resource/Sweden
+When was Alberta admitted as province?
+	http://dbpedia.org/resource/Alberta
+	http://dbpedia.org/property/admittancedate
+To which countries does the Himalayan mountain system extend?
+	http://dbpedia.org/resource/Himalayas
+	http://dbpedia.org/ontology/country
+Give me a list of all trumpet players that were bandleaders.
+	http://dbpedia.org/ontology/occupation
+	http://dbpedia.org/resource/Bandleader
+	http://dbpedia.org/ontology/instrument
+	http://dbpedia.org/resource/Trumpet
+What is the total amount of men and women serving in the FDNY?
+	http://dbpedia.org/resource/New_York_City_Fire_Department
+	http://dbpedia.org/property/strength
+Who is the Formula 1 race driver with the most races?
+	http://dbpedia.org/ontology/FormulaOneRacer
+	http://dbpedia.org/ontology/races
+Give me all world heritage sites designated within the past five years.
+	http://dbpedia.org/ontology/WorldHeritageSite
+	http://dbpedia.org/property/year
+Who is the youngest player in the Premier League?
+	http://dbpedia.org/ontology/team
+	http://dbpedia.org/ontology/league
+	http://dbpedia.org/resource/Premier_League
+	http://dbpedia.org/ontology/birthDate
+Give me all members of Prodigy.
+	http://dbpedia.org/resource/The_Prodigy
+	http://dbpedia.org/ontology/bandMember
+What is the longest river?
+	http://dbpedia.org/ontology/River
+	http://dbpedia.org/property/length
+Does the new Battlestar Galactica series have more episodes than the old one?
+	http://dbpedia.org/resource/Battlestar_Galactica_%281978_TV_series%29
+	http://dbpedia.org/ontology/numberOfEpisodes
+	http://dbpedia.org/resource/Battlestar_Galactica_%282004_TV_series%29
+	http://dbpedia.org/ontology/numberOfEpisodes
+Give me all cars that are produced in Germany.
+	http://dbpedia.org/ontology/Automobile
+	http://dbpedia.org/property/production
+	http://dbpedia.org/resource/Germany
+	http://dbpedia.org/property/assembly
+	http://dbpedia.org/resource/Germany
+	http://dbpedia.org/property/manufacturer
+	http://dbpedia.org/ontology/locationCountry
+	http://dbpedia.org/resource/Germany
+	http://dbpedia.org/class/yago/AutomotiveCompaniesOfGermany
+Give me all people that were born in Vienna and died in Berlin.
+	http://dbpedia.org/ontology/birthPlace
+	http://dbpedia.org/resource/Vienna
+	http://dbpedia.org/ontology/deathPlace
+	http://dbpedia.org/resource/Berlin
+How tall is Michael Jordan?
+	http://dbpedia.org/resource/Michael_Jordan
+	http://dbpedia.org/ontology/height
+What is the capital of Canada?
+	http://dbpedia.org/resource/Canada
+	http://dbpedia.org/ontology/capital
+Who is the governor of Texas?
+	http://dbpedia.org/resource/Texas
+	http://dbpedia.org/property/governor
+	http://xmlns.com/foaf/0.1/name
+Do Harry and William, Princes of Wales, have the same mother?
+	http://dbpedia.org/resource/Prince_William,_Duke_of_Cambridge
+	http://dbpedia.org/property/mother
+	http://dbpedia.org/resource/Prince_Harry_of_Wales
+	http://dbpedia.org/property/mother
+Who was the father of Queen Elizabeth II?
+	http://dbpedia.org/resource/Elizabeth_II
+	http://dbpedia.org/property/father
+Which U.S. state has been admitted latest?
+	http://dbpedia.org/class/yago/StatesOfTheUnitedStates
+	http://dbpedia.org/property/admittancedate
+How many official languages are spoken on the Seychelles?
+	http://dbpedia.org/resource/Seychelles
+	http://dbpedia.org/ontology/officialLanguage
+Sean Parnell is the governor of which U.S. state?
+	http://dbpedia.org/class/yago/StatesOfTheUnitedStates
+	http://dbpedia.org/property/governor
+	http://dbpedia.org/resource/Sean_Parnell
+Give me all movies directed by Francis Ford Coppola.
+	http://dbpedia.org/ontology/Film
+	http://dbpedia.org/ontology/director
+	http://dbpedia.org/resource/Francis_Ford_Coppola
+Give me all actors starring in movies directed by and starring William Shatner.
+	http://dbpedia.org/ontology/director
+	http://dbpedia.org/resource/William_Shatner
+	http://dbpedia.org/ontology/starring
+	http://dbpedia.org/resource/William_Shatner
+	http://dbpedia.org/ontology/starring
+	http://dbpedia.org/property/starring
+What is the birth name of Angela Merkel?
+	http://dbpedia.org/resource/Angela_Merkel
+	http://dbpedia.org/property/birthName
+Give me all current Methodist national leaders.
+	http://dbpedia.org/class/yago/CurrentNationalLeaders
+	http://dbpedia.org/property/religion
+	http://dbpedia.org/resource/Methodism
+How often did Nicole Kidman marry?
+	http://dbpedia.org/resource/Nicole_Kidman
+	http://dbpedia.org/ontology/spouse
+Give me all Australian nonprofit organizations.
+	http://dbpedia.org/ontology/type
+	http://dbpedia.org/resource/Nonprofit_organization
+	http://dbpedia.org/ontology/locationCountry
+	http://dbpedia.org/resource/Australia
+	http://dbpedia.org/ontology/location
+	http://dbpedia.org/ontology/country
+	http://dbpedia.org/resource/Australia
+In which military conflicts did Lawrence of Arabia participate?
+	http://dbpedia.org/resource/T._E._Lawrence
+	http://dbpedia.org/ontology/battle
+Who developed Skype?
+	http://dbpedia.org/resource/Skype
+	http://dbpedia.org/ontology/developer
+How many inhabitants does Maribor have?
+	http://dbpedia.org/resource/Maribor
+	http://dbpedia.org/ontology/populationTotal
+Give me all companies in Munich.
+	http://dbpedia.org/ontology/Company
+	http://dbpedia.org/ontology/location
+	http://dbpedia.org/resource/Munich
+	http://dbpedia.org/ontology/headquarter
+	http://dbpedia.org/resource/Munich
+	http://dbpedia.org/ontology/locationCity
+	http://dbpedia.org/resource/Munich
+List all boardgames by GMT.
+	http://dbpedia.org/ontology/publisher
+	http://dbpedia.org/resource/GMT_Games
+Who founded Intel?
+	http://dbpedia.org/resource/Intel
+	http://dbpedia.org/ontology/foundedBy
+Who is the husband of Amanda Palmer?
+	http://dbpedia.org/resource/Amanda_Palmer
+	http://dbpedia.org/property/spouse
+Give me all breeds of the German Shepherd dog.
+	http://dbpedia.org/property/breed
+	http://dbpedia.org/resource/German_Shepherd_Dog
+Which cities does the Weser flow through?
+	http://dbpedia.org/resource/Weser
+	http://dbpedia.org/ontology/city
+Which countries are connected by the Rhine?
+	http://dbpedia.org/resource/Rhine
+	http://dbpedia.org/ontology/country
+Which professional surfers were born on the Philippines?
+	http://dbpedia.org/ontology/occupation
+	http://dbpedia.org/resource/Surfing
+	http://dbpedia.org/ontology/birthPlace
+	http://dbpedia.org/resource/Philippines
+In which UK city are the headquarters of the MI6?
+	http://dbpedia.org/resource/Secret_Intelligence_Service
+	http://dbpedia.org/ontology/headquarter
+	http://dbpedia.org/ontology/country
+	http://dbpedia.org/resource/United_Kingdom
+Which other weapons did the designer of the Uzi develop?
+	http://dbpedia.org/ontology/Weapon
+	http://dbpedia.org/property/designer
+	http://dbpedia.org/resource/Uzi
+	http://dbpedia.org/property/designer
+	http://dbpedia.org/resource/Uzi
+Was the Cuban Missile Crisis earlier than the Bay of Pigs Invasion?
+	http://dbpedia.org/resource/Cuban_Missile_Crisis
+	http://dbpedia.org/ontology/date
+	http://dbpedia.org/resource/Bay_of_Pigs_Invasion
+	http://dbpedia.org/ontology/date
+Give me all Frisian islands that belong to the Netherlands.
+	http://dbpedia.org/class/yago/FrisianIslands
+	http://dbpedia.org/ontology/country
+	http://dbpedia.org/resource/Netherlands
+What is the ruling party in Lisbon?
+	http://dbpedia.org/resource/Lisbon
+	http://dbpedia.org/property/leaderParty
+What are the nicknames of San Francisco?
+	http://dbpedia.org/resource/San_Francisco
+	http://dbpedia.org/property/nickname
+Which Greek goddesses dwelt on Mount Olympus?
+	http://dbpedia.org/class/yago/GreekGoddesses
+	http://dbpedia.org/property/abode
+	http://dbpedia.org/resource/Mount_Olympus
+When were the Hells Angels founded?
+	http://dbpedia.org/resource/Hells_Angels
+	http://dbpedia.org/property/founded
+Give me the Apollo 14 astronauts.
+	http://dbpedia.org/ontology/mission
+	http://dbpedia.org/resource/Apollo_14
+What is the time zone of Salt Lake City?
+	http://dbpedia.org/resource/Salt_Lake_City
+	http://dbpedia.org/property/timezone
+Which U.S. states are in the same timezone as Utah?
+	http://dbpedia.org/resource/Utah
+	http://dbpedia.org/property/timezone
+	http://dbpedia.org/class/yago/StatesOfTheUnitedStates
+	http://dbpedia.org/property/timezone
+	http://dbpedia.org/resource/Utah
+Give me a list of all lakes in Denmark.
+	http://dbpedia.org/ontology/Lake
+	http://dbpedia.org/ontology/country
+	http://dbpedia.org/resource/Denmark
+	http://dbpedia.org/class/yago/LakesOfDenmark
+How many space missions have there been?
+	http://dbpedia.org/ontology/SpaceMission
+Did Socrates influence Aristotle?
+	http://dbpedia.org/resource/Aristotle
+	http://dbpedia.org/ontology/influencedBy
+	http://dbpedia.org/resource/Socrates
+Give me all Argentine films.
+	http://dbpedia.org/class/yago/ArgentineFilms
+	http://dbpedia.org/ontology/Film
+	http://dbpedia.org/ontology/country
+	http://dbpedia.org/resource/Argentina
+	http://dbpedia.org/property/country
+Give me all launch pads operated by NASA.
+	http://dbpedia.org/ontology/LaunchPad
+	http://dbpedia.org/ontology/operator
+	http://dbpedia.org/resource/NASA
+Which instruments did John Lennon play?
+	http://dbpedia.org/resource/John_Lennon
+	http://dbpedia.org/ontology/instrument
+Which ships were called after Benjamin Franklin?
+	http://dbpedia.org/property/shipNamesake
+	http://dbpedia.org/resource/Benjamin_Franklin
+Who are the parents of the wife of Juan Carlos I?
+	http://dbpedia.org/resource/Juan_Carlos_I_of_Spain
+	http://dbpedia.org/ontology/spouse
+	http://dbpedia.org/ontology/parent
+How many employees does Google have?
+	http://dbpedia.org/resource/Google
+	http://dbpedia.org/ontology/numberOfEmployees
+Did Tesla win a nobel prize in physics?
+	http://dbpedia.org/resource/Nikola_Tesla
+	http://dbpedia.org/ontology/award
+	http://dbpedia.org/resource/Nobel_Prize_in_Physics
+Is Michelle Obama the wife of Barack Obama?
+	http://dbpedia.org/resource/Barack_Obama
+	http://dbpedia.org/ontology/spouse
+	http://dbpedia.org/resource/Michelle_Obama
+When was the Statue of Liberty built?
+	http://dbpedia.org/resource/Statue_of_Liberty
+	http://dbpedia.org/property/built
+In which U.S. state is Area 51 located?
+	http://dbpedia.org/resource/Area_51
+	http://dbpedia.org/ontology/location
+	http://dbpedia.org/ontology/country
+	http://dbpedia.org/resource/United_States
+How many children did Benjamin Franklin have?
+	http://dbpedia.org/resource/Benjamin_Franklin
+	http://dbpedia.org/ontology/child
+When did Michael Jackson die?
+	http://dbpedia.org/resource/Michael_Jackson
+	http://dbpedia.org/ontology/deathDate
+Which daughters of British earls died in the same place they were born in?
+	http://dbpedia.org/class/yago/DaughtersOfBritishEarls
+	http://dbpedia.org/ontology/birthPlace
+	http://dbpedia.org/ontology/deathPlace
+List the children of Margaret Thatcher.
+	http://dbpedia.org/resource/Margaret_Thatcher
+	http://dbpedia.org/ontology/child
+Who was called Scarface?
+	http://dbpedia.org/property/nickname
+	http://dbpedia.org/resource/Scarface
+Was Margaret Thatcher a chemist?
+	http://dbpedia.org/resource/Margaret_Thatcher
+	http://dbpedia.org/ontology/profession
+	http://dbpedia.org/resource/Chemist
+Was Dutch Schultz a jew?
+	http://dbpedia.org/resource/Dutch_Schultz
+	http://dbpedia.org/property/ethnicity
+Give me all books by William Goldman with more than 300 pages.
+	http://dbpedia.org/ontology/Book
+	http://dbpedia.org/ontology/author
+	http://dbpedia.org/resource/William_Goldman
+	http://dbpedia.org/ontology/numberOfPages
+Which books by Kerouac were published by Viking Press?
+	http://dbpedia.org/ontology/Book
+	http://dbpedia.org/ontology/publisher
+	http://dbpedia.org/resource/Viking_Press
+	http://dbpedia.org/ontology/author
+	http://dbpedia.org/resource/Jack_Kerouac
+Give me a list of all American inventions.
+	http://dbpedia.org/class/yago/AmericanInventions
+How high is the Mount Everest?
+	http://dbpedia.org/resource/Mount_Everest
+	http://dbpedia.org/ontology/elevation
+Who created the comic Captain America?
+	http://dbpedia.org/resource/Captain_America
+	http://dbpedia.org/ontology/creator
+How many people live in the capital of Australia?
+	http://dbpedia.org/resource/Australia
+	http://dbpedia.org/ontology/capital
+	http://dbpedia.org/ontology/populationTotal
+What is the largest city in Australia?
+	http://dbpedia.org/resource/Australia
+	http://dbpedia.org/ontology/largestCity
+Who composed the music for Harold and Maude?
+	http://dbpedia.org/resource/Harold_and_Maude
+	http://dbpedia.org/ontology/musicComposer
+Which films starring Clint Eastwood did he direct himself?
+	http://dbpedia.org/ontology/director
+	http://dbpedia.org/resource/Clint_Eastwood
+	http://dbpedia.org/ontology/starring
+	http://dbpedia.org/resource/Clint_Eastwood
+In which city was the former Dutch queen Juliana buried?
+	http://dbpedia.org/resource/Juliana_of_the_Netherlands
+	http://dbpedia.org/ontology/restingPlace
+	http://dbpedia.org/ontology/Settlement
+Where is the residence of the prime minister of Spain?
+	http://dbpedia.org/resource/Prime_Minister_of_Spain
+	http://dbpedia.org/property/residence
+Which U.S. State has the abbreviation MN?
+	http://dbpedia.org/class/yago/StatesOfTheUnitedStates
+	http://dbpedia.org/property/postalabbreviation
+Show me all songs from Bruce Springsteen released between 1980 and 1990.
+	http://dbpedia.org/ontology/Song
+	http://dbpedia.org/ontology/artist
+	http://dbpedia.org/resource/Bruce_Springsteen
+	http://dbpedia.org/ontology/releaseDate
+Which movies did Sam Raimi direct after Army of Darkness?
+	http://dbpedia.org/ontology/Film
+	http://dbpedia.org/ontology/director
+	http://dbpedia.org/resource/Sam_Raimi
+	http://dbpedia.org/ontology/releaseDate
+	http://dbpedia.org/property/released
+	http://dbpedia.org/resource/Army_of_Darkness
+	http://dbpedia.org/ontology/releaseDate
+What is the founding year of the brewery that produces Pilsner Urquell?
+	http://dbpedia.org/resource/Pilsner_Urquell
+	http://dbpedia.org/property/brewery
+	http://dbpedia.org/property/foundation
+Who wrote the lyrics for the Polish national anthem?
+	http://dbpedia.org/resource/Poland
+	http://dbpedia.org/ontology/anthem
+	http://dbpedia.org/property/author
+Give me all B-sides of the Ramones.
+	http://dbpedia.org/ontology/musicalArtist
+	http://dbpedia.org/resource/Ramones
+	http://dbpedia.org/property/bSide
+Who painted The Storm on the Sea of Galilee?
+	http://dbpedia.org/resource/The_Storm_on_the_Sea_of_Galilee
+	http://dbpedia.org/property/artist
+Which country does the creator of Miffy come from?
+	http://dbpedia.org/resource/Miffy
+	http://dbpedia.org/ontology/creator
+	http://dbpedia.org/ontology/nationality
+For which label did Elvis record his first album?
+	http://dbpedia.org/ontology/Album
+	http://dbpedia.org/ontology/artist
+	http://dbpedia.org/resource/Elvis_Presley
+	http://dbpedia.org/ontology/releaseDate
+	http://dbpedia.org/ontology/recordLabel
+Who produces Orangina?
+	http://dbpedia.org/ontology/product
+	http://dbpedia.org/resource/Orangina
