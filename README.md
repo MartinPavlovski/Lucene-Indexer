@@ -1,4 +1,4 @@
-LuceneIndexer
+Lucene Indexer
 =============
 
 Testing the performance of indexing and searching with Lucene.
