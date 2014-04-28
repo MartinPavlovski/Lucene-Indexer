@@ -28,28 +28,24 @@ public class BigFile implements Iterable<String>
     {
     	private String _currentLine;
  
-		public boolean hasNext()
+	public boolean hasNext()
+	{
+		try
 		{
-		    try
-		    {
-		    	_currentLine = _reader.readLine();
-		    }
-		    catch (Exception ex)
-		    {
-				_currentLine = null;
-				ex.printStackTrace();
-		    }
-	 
-		    return _currentLine != null;
+			_currentLine = _reader.readLine();
+		}
+		catch (Exception ex)
+		{
+			_currentLine = null;
+			ex.printStackTrace();
 		}
 	 
-		public String next()
-		{
-		    return _currentLine;
-		}
+		return _currentLine != null;
+	}
 	 
-		public void remove()
-		{
-		}
+	public String next()
+	{
+		return _currentLine;
+	}
     }
 }
