@@ -47,5 +47,9 @@ public class BigFile implements Iterable<String>
 	{
 		return _currentLine;
 	}
+	
+	public void remove()
+	{
+	}
     }
 }
